@@ -1,0 +1,12 @@
+{
+  "name": "microsoft-bot-hello-world",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/juninmd/microsoft-bot-hello-world.git",
+  "author": "Antonio <jr_acn@yahoo.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "restify": "^6.3.4"
+  }
+}
